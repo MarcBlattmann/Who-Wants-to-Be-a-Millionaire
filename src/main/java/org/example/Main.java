@@ -1,6 +1,6 @@
 package org.example;
 
-//Used for project: https://github.com/cdimascio/dotenv-java , https://github.com/stleary/JSON-java
+//Used for project: https://github.com/cdimascio/dotenv-java
 
 import org.example.droplets.console;
 
