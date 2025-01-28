@@ -1,6 +1,6 @@
 # 🎉 Who Wants to Be a Millionaire - Java Edition 🎉
 
-An exciting quiz game based on the original rules of "Who Wants to Be a Millionaire". 🏆 Test your knowledge, use your lifelines, and win up to **1 million euros**! 💸
+An exciting quiz game based on the original rules of "Who Wants to Be a Millionaire". 🏆 Test your knowledge, use your lifelines, and win up to **1 million**! 💸
 
 ---
 
@@ -14,7 +14,7 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
   - Take your winnings after any correctly answered question.
   - Lose your money back to the last safety level if you answer incorrectly.
   - Lose everything if you fail before reaching the first safety level.
-- **Winning the Game**: Answer all 15 questions correctly to win **1 million euros**! 💰
+- **Winning the Game**: Answer all 15 questions correctly to win **1 million**! 💰
 
 ---
 
