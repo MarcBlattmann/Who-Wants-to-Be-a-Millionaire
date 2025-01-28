@@ -30,8 +30,7 @@ public class Game {
                         return generatePrize();
                     }
                 } else {
-                    handleWrongAnswer(correctAnswer);
-                    return 0;
+                    return handleWrongAnswer(correctAnswer);
                 }
             } catch (NumberFormatException e) {
                 console.paragraph();
@@ -43,11 +42,6 @@ public class Game {
         console.println("Congratulations! You won one million dollars!");
         return generatePrize();
     }
-
-
-
-
-
 
     private void displayAnswers(Question question) {
         String[] answers = question.GetAnswers();
@@ -76,9 +70,19 @@ public class Game {
         return true;
     }
 
-    private void handleWrongAnswer(int correctAnswer) {
+    private int handleWrongAnswer(int correctAnswer) {
+        console.paragraph();
         console.println("Correct Answer: " + correctAnswer);
         console.println("Wrong! Game over.");
+        if (points >= 10) {
+            console.println("Safety level passes secured, 32000");
+            return 32000;
+        } else if (points >= 5) {
+            console.println("Safety level passes secured, 1000");
+            return 1000;
+        } else {
+            return 0;
+        }
     }
 
     private int generatePrize() {
