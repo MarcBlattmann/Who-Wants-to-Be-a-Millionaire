@@ -1,4 +1,5 @@
-![Banner](https://www.canva.com/design/DAGdfwdE1TA/CI2rAKkN5yx53U8tWFKHmA/view?utm_content=DAGdfwdE1TA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf2aebf919f)
+![Add a heading](https://github.com/user-attachments/assets/38e67462-d507-4042-a299-4b8aba0a4c54)
+
 
 # 🎉 Who Wants to Be a Millionaire - Java Edition 🎉
 
