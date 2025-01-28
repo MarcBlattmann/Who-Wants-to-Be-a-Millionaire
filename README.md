@@ -21,12 +21,40 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ---
 
 ## 🚀 How to Play
-1. Run the program in your preferred Java IDE or terminal. [Tutorial](https://github.com/MarcBlattmann/Who-Wants-to-Be-a-Millionaire/wiki/Setup)    
-2. Decide whether to continue playing or take your winnings after each question.  
-3. Aim for the **1 million prize** or secure your winnings at a lower level!  
+1. Run the program in your preferred Java IDE or terminal. [Setup Tutorial](https://github.com/MarcBlattmann/Who-Wants-to-Be-a-Millionaire/wiki/Setup)    
+2. Answer the questions to the best of your knowledge.  
+3. After each correct answer, decide whether to:
+   - Continue playing to try for a higher prize.
+   - Take your winnings and secure your prize.
+4. Aim for the **1 million prize** or secure your winnings at a lower level!
 
 ---
 
 ## 📋 Requirements
 - Java Development Kit (JDK) installed.
 - A terminal or IDE that supports Java execution.
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to the following open-source projects used in this game:
+- [**dotenv-java**](https://github.com/cdimascio/dotenv-java): Used to manage environment variables seamlessly.
+- [**JSON-java**](https://github.com/stleary/JSON-java): Used for parsing and handling JSON data effortlessly.
+
+These tools helped make this project more robust and efficient. 💡✨
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 Contributing
+Feel free to fork this repository, create a branch, and submit a pull request with your improvements! Contributions are welcome. 😊
+
+---
+
+## 📧 Contact
+For any questions or feedback, feel free to contact me via [GitHub](https://github.com/MarcBlattmann).  
