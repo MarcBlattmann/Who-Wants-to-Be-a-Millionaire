@@ -30,12 +30,6 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 
 ---
 
-## 📋 Requirements
-- Java Development Kit (JDK) installed.
-- A terminal or IDE that supports Java execution.
-
----
-
 ## 🙏 Acknowledgments
 
 Special thanks to the following open-source projects used in this game:
@@ -46,15 +40,8 @@ These tools helped make this project more robust and efficient. 💡✨
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 📋 Requirements
+- Java Development Kit (JDK) installed.
+- A terminal or IDE that supports Java execution.
 
 ---
-
-## 🌟 Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with your improvements! Contributions are welcome. 😊
-
----
-
-## 📧 Contact
-For any questions or feedback, feel free to contact me via [GitHub](https://github.com/MarcBlattmann).  
