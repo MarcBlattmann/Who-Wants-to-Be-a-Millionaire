@@ -33,7 +33,7 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ## 🙏 Acknowledgments
 
 Special thanks to the following open-source projects used in this game:
-- [**dotenv-java**](https://github.com/cdimascio/dotenv-java): Used to manage environment variables seamlessly.
+- [**dotenv-java**](https://github.com/cdimascio/dotenv-java) : Used to manage environment variables seamlessly.
 
 These tools helped make this project more robust and efficient. 💡✨
 
