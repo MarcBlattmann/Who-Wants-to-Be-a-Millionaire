@@ -19,10 +19,9 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ---
 
 ## 🚀 How to Play
-1. Run the program in your preferred Java IDE or terminal.  
-2. Follow the instructions to answer the questions and use your lifelines wisely.  
-3. Decide whether to continue playing or take your winnings after each question.  
-4. Aim for the **1 million euro prize** or secure your winnings at a lower level!  
+1. Run the program in your preferred Java IDE or terminal.    
+2. Decide whether to continue playing or take your winnings after each question.  
+3. Aim for the **1 million euro prize** or secure your winnings at a lower level!  
 
 ---
 
