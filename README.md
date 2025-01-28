@@ -19,7 +19,7 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ---
 
 ## 🚀 How to Play
-1. Run the program in your preferred Java IDE or terminal.    
+1. Run the program in your preferred Java IDE or terminal. [Tutorial](https://github.com/MarcBlattmann/Who-Wants-to-Be-a-Millionaire/wiki/Setup)    
 2. Decide whether to continue playing or take your winnings after each question.  
 3. Aim for the **1 million euro prize** or secure your winnings at a lower level!  
 
