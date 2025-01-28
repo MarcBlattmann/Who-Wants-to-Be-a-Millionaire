@@ -1,5 +1,4 @@
-![Add a heading](https://github.com/user-attachments/assets/38e67462-d507-4042-a299-4b8aba0a4c54)
-
+![Untitled (60 x 10 in)](https://github.com/user-attachments/assets/7a48b72b-27fd-464d-bf2e-0730680da86e)
 
 # 🎉 Who Wants to Be a Millionaire - Java Edition 🎉
 
