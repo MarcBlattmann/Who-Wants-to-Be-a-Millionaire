@@ -29,8 +29,3 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ## 📋 Requirements
 - Java Development Kit (JDK) installed.
 - A terminal or IDE that supports Java execution.
-
----
-
-## 💻 Example Code Structure
-```java
