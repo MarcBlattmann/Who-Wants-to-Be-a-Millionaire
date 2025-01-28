@@ -1,3 +1,5 @@
+![Untitled (60 x 10 in)](https://github.com/user-attachments/assets/7a48b72b-27fd-464d-bf2e-0730680da86e)
+
 # 🎉 Who Wants to Be a Millionaire - Java Edition 🎉
 
 An exciting quiz game based on the original rules of "Who Wants to Be a Millionaire". 🏆 Test your knowledge, use your lifelines, and win up to **1 million**! 💸
@@ -19,12 +21,26 @@ In this game, you can answer up to 15 questions to reach the maximum prize. Ther
 ---
 
 ## 🚀 How to Play
-1. Run the program in your preferred Java IDE or terminal.    
-2. Decide whether to continue playing or take your winnings after each question.  
-3. Aim for the **1 million euro prize** or secure your winnings at a lower level!  
+1. Run the program in your preferred Java IDE or terminal. [Setup Tutorial](https://github.com/MarcBlattmann/Who-Wants-to-Be-a-Millionaire/wiki/Setup)    
+2. Answer the questions to the best of your knowledge.  
+3. After each correct answer, decide whether to:
+   - Continue playing to try for a higher prize.
+   - Take your winnings and secure your prize.
+4. Aim for the **1 million prize** or secure your winnings at a lower level!
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to the following open-source projects used in this game:
+- [**dotenv-java**](https://github.com/cdimascio/dotenv-java): Used to manage environment variables seamlessly.
+
+These tools helped make this project more robust and efficient. 💡✨
 
 ---
 
 ## 📋 Requirements
 - Java Development Kit (JDK) installed.
 - A terminal or IDE that supports Java execution.
+
+---
