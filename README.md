@@ -1,10 +1,12 @@
 ![Untitled (60 x 10 in)](https://github.com/user-attachments/assets/7a48b72b-27fd-464d-bf2e-0730680da86e)
 
 # Who Wants to Be a Millionaire - Java Edition
+![](https://img.shields.io/badge/MIT-green?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 This is a quiz game based on the format of "Who Wants to Be a Millionaire." The goal is to answer 15 multiple-choice questions correctly to reach the top prize of 1 million.
 
-![](https://img.shields.io/badge/MIT-green?style=for-the-badge)
 ---
 
 ## Game Overview
