@@ -8,7 +8,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-
         var balance = 0;
         while (true) {
             console.paragraph();
