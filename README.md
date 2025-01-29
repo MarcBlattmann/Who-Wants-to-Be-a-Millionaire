@@ -4,6 +4,7 @@
 
 This is a quiz game based on the format of "Who Wants to Be a Millionaire." The goal is to answer 15 multiple-choice questions correctly to reach the top prize of 1 million.
 
+![](https://img.shields.io/badge/MIT-green?style=for-the-badge)
 ---
 
 ## Game Overview
