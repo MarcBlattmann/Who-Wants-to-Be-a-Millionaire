@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/MIT-green?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 This is a quiz game based on the format of "Who Wants to Be a Millionaire." The goal is to answer 15 multiple-choice questions correctly to reach the top prize of 1 million.
 
