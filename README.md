@@ -31,7 +31,7 @@ The game consists of 15 questions, each with four answer choices. Players can ta
 3. After a correct answer, decide whether to continue or take the current winnings.
 4. If a wrong answer is given, the winnings drop to the last safety level.
 
----
+--- 
 
 ## Acknowledgments
 
