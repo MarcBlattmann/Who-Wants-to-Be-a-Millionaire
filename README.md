@@ -1,6 +1,6 @@
 ![Untitled (60 x 10 in)](https://github.com/user-attachments/assets/7a48b72b-27fd-464d-bf2e-0730680da86e)
 
-# Who Wants to Be a Millionaire - Java Edition
+# Who Wants to Be a Millionaire - Java Edition 
 ![](https://img.shields.io/badge/MIT-green?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
